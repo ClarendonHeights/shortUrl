@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: 短网址
 tags: PHP,动态存库,短网址
@@ -32,9 +33,13 @@ grammar_cjkRuby: true
 **API**
 
 **短链接生成**
-  ceeety.com/shorten/[URL_ENCODE地址]
+  this.com/shorten/[URL_ENCODE地址]
   结果返回
-  {"short_id":"94wWx2","short_url":"http:\/\/ceeety.com\/94wWx2","long_url":"https:\/\/www.hao123.com\/?tn=90009619_s_hao_pg"}
+  {"short_id":"94wWx2","short_url":"http:\/\/this.com\/94wWx2","long_url":"https:\/\/www.hao123.com\/?tn=90009619_s_hao_pg"}
   
 **短链接跳转**
-  ceeety.com/94wWx2
+  this.com/94wWx2
+=======
+# shortUrl
+短网址
+>>>>>>> 0250913058a4c924c5a72980af348e005f1669cd
